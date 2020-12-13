@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/jadhavakash/diabetes_prediction/blob/master/thumbnail.png?raw=true)
+![alt text](https://github.com/jadhavakash/diabetes_prediction/blob/main/thumbnail.png?raw=true)
 
 ## Requirements
 
